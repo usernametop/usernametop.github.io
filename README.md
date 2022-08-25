@@ -17,4 +17,8 @@ Dividends Send Regularly Every Month To Investor Wallets.
 <b>Blockchain</b>
 <br>
 Stellar
+<br><br>
+<b>Block Explorer</b>
+<br>
+<a href="https://stellar.expert">https://stellar.expert</a>
 </div>
