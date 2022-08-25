@@ -1,11 +1,17 @@
 FEDERATION_SERVER="https://api.stellar.org/federation" 
 
+# ISSUER #
+
 ACCOUNTS=[""] 
+
+# ORGANIZATION PROFILE #
 
 [DOCUMENTATION] 
 ORG_NAME="Email Forwarding Service Investment" 
 ORG_URL="https://username.top" 
 ORG_LOGO="https://username.top/logo.webp" 
+
+# CURRENCY PROFILE #
 
 [[CURRENCIES]] 
 code="EMAIL" 
