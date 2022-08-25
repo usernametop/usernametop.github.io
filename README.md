@@ -1,4 +1,4 @@
-<h3 align="center">Email Forwarding Service</h3>
+<h2 align="center">Email Forwarding Service</h2>
 <div align="center">
 <b>Description</b>
 <br>
