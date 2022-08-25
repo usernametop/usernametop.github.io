@@ -19,8 +19,64 @@
 </url>
 
 <url>
+  <loc>https://username.top/en/tutorial/</loc>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+  <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+</url>
+
+<url>
+  <loc>https://username.top/en/about/</loc>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+  <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+</url>
+
+<url>
+  <loc>https://username.top/en/privacy/</loc>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+  <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+</url>
+
+<url>
+  <loc>https://username.top/en/contact/</loc>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+  <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+</url>
+
+<url>
   <loc>https://username.top/id/</loc>
   <priority>0.9</priority>
+  <changefreq>daily</changefreq>
+  <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+</url>
+
+<url>
+  <loc>https://username.top/id/tutorial/</loc>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+  <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+</url>
+
+<url>
+  <loc>https://username.top/id/tentang/</loc>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+  <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+</url>
+
+<url>
+  <loc>https://username.top/id/privasi/</loc>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+  <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+</url>
+
+<url>
+  <loc>https://username.top/id/kontak/</loc>
+  <priority>0.8</priority>
   <changefreq>daily</changefreq>
   <lastmod>2022-08-25T00:00:00+00:00</lastmod>
 </url>
