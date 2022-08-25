@@ -1,13 +1,11 @@
 FEDERATION_SERVER="https://api.stellar.org/federation" 
 
-# ORGANIZATION PROFILE # 
-
 [DOCUMENTATION] 
-ORG_NAME="Email Forwarding Service Investment" 
+ORG_NAME="Email Forwarding Service Cashback" 
 ORG_URL="https://username.top" 
 ORG_LOGO="https://username.top/logo.webp" 
-
-# CURRENCY PROFILE # 
+ORG_DESCRIPTION="Forwarding email while getting cashbacks every month for 10 years never been exist over the markets before. Email Forwarding Service Cashback brings that combined features for the first time in history." 
+ORG_OFFICIAL_EMAIL="info@username.top" 
 
 [[CURRENCIES]] 
 code="EMAIL" 
@@ -15,7 +13,7 @@ issuer="GCZTMJCUE32GYVJDLQZ2IM7CEK3DXTHIUYGIHELX7EHBFZOMLIHEMAIL"
 status="live" 
 name="EMAIL" 
 desc="1 EMAIL equivalent with 10,000 RUPIAH. How to purchase RUPIAH using XLM and convert it into EMAIL ? All detailed informations could be found at https://username.top" 
-conditions="There will be only 1,000,000 EMAIL existed on SDEX for investors. EMAIL will generate dividends as much as 2.5% per month for 10 years. The dividends send regularly to investor wallets every month." 
+conditions="There will be only 1,000,000 EMAIL existed on SDEX. EMAIL will give cashbacks as much as 2.5% per month for 10 years (120 months). The cashbacks send regularly to user wallets every month." 
 display_decimals=2 
 image="https://username.top/logo.webp" 
 fixed_number=1000000 
