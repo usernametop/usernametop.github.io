@@ -1,0 +1,19 @@
+FEDERATION_SERVER="https://api.stellar.org/federation" 
+
+ACCOUNTS=[""] 
+
+[DOCUMENTATION] 
+ORG_NAME="Email Forwarding Service Investment" 
+ORG_URL="https://username.top" 
+ORG_LOGO="https://username.top/logo.png" 
+
+[[CURRENCIES]] 
+code="EMAIL" 
+issuer="" 
+status="live" 
+name="EMAIL" 
+desc="1 EMAIL equivalent with 10,000 RUPIAH. How to purchase RUPIAH using XLM and convert it into EMAIL ? All detailed informations could be found at https://username.top/logo.png" 
+conditions="There will be only 1,000,000 EMAIL existed on SDEX for investors. EMAIL will generate dividends as much as 2.5% per month for 10 years. The dividends send regularly to investor wallets every month." 
+display_decimals=2 
+image="https://username.top/logo.png" 
+fixed_number=1000000 
