@@ -21,4 +21,8 @@ Stellar
 <b>Block Explorer</b>
 <br>
 <a href="https://stellar.expert">https://stellar.expert</a>
+<br><br>
+<b>Marketplace</b>
+<br>
+<a href="https://stellarterm.com">https://stellarterm.com</a>
 </div>
