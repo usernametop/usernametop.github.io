@@ -8,7 +8,7 @@ Pay Once For Lifetime.
 <br>
 Get 2.5% Monthly Dividends For 10 Years.
 <br>
-Dividends Send Regularly Every Month.
+Dividends Send Regularly Every Month To Investor Wallets. 
 <br><br>
 <b>Website</b>
 <br>
