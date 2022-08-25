@@ -6,7 +6,7 @@ Purchase Email Forwarding Service.
 <br>
 Pay Once For Lifetime.
 <br>
-Get Dividends 2.5% Monthly For 10 Years.
+Get 2.5% Monthly Dividends For 10 Years.
 <br>
 Dividends Send Regularly Every Month.
 <br><br>
