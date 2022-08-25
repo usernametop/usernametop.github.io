@@ -1,4 +1,4 @@
-<h4 align="center">Email Forwarding Service Investment</h4>
+<h4 align="center">Email Forwarding Service</h4>
 <div align="center">
 <b>Description</b>
 <br>
@@ -6,9 +6,9 @@ Purchase Email Forwarding Service.
 <br>
 Pay Once For Lifetime.
 <br>
-Get 2.5% Monthly Dividends For 10 Years (120 Months).
+Get 2.5% Monthly Cashbacks For 10 Years (120 Months).
 <br>
-Dividends Send Regularly Every Month To Investor Wallets. 
+Cashbacks Send Regularly Every Month To User Wallets. 
 <br><br>
 <b>Website</b>
 <br>
